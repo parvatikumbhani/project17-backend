@@ -1,9 +1,0 @@
-{
-  "name": "project17-backend",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "start": "vercel dev",
-    "dev": "vercel dev"
-  }
-}
